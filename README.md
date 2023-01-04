@@ -1,2 +1,3 @@
-# CNN_Image_Classifier
-This is a CNN based deeplearning classifier, it classify the images
+# DL_DVC_TEMPLATE
+
+This is a template can be used for projects
